@@ -1,0 +1,13 @@
+#+TITLE: Информатика
+#+INFOJS_OPT: view:info
+#+LANGUAGE: ru
+#+OPTIONS: broken-links:mark
+
+
+#+INCLUDE: ./info/info.org
+
+#+INCLUDE: ./data/data.org
+
+#+INCLUDE: ./per/per.org
+
+#+INCLUDE: ./pred/pred.org
