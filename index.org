@@ -11,3 +11,5 @@
 #+INCLUDE: ./per/per.org
 
 #+INCLUDE: ./pred/pred.org
+
+#+INCLUDE: ./osob/osob.org
