@@ -13,3 +13,5 @@
 #+INCLUDE: ./pred/pred.org
 
 #+INCLUDE: ./osob/osob.org
+
+#+INCLUDE: ./umn/umn.org
