@@ -38,6 +38,10 @@
       color: var(--ctp-latte-subtext0)
   }
 
+  img{
+      width: 500px
+  }
+
   
   h3{
       color: var(--ctp-latte-subtext1)
